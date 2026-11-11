@@ -1,1 +1,1 @@
-Redirect to the official Dyl the Killsmith site, https://dylthekillsmith.pages.dev/
+Static copy of the official Dyl the Killsmith site; full site at https://dylthekillsmith.pages.dev/
